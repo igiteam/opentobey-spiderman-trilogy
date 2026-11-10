@@ -38,9 +38,9 @@ All three Spider-Man movie games, recreated on the original *Spider-Man: The Mov
 
 [https://github.com/SirSymo/SM2-Recomp](https://github.com/SirSymo/SM2-Recomp)
 
-[![Spider-Man: The Movie (Xbox)](https://raw.githubusercontent.com/igiteam/opentobey-spiderman-trilogy/refs/heads/master/spider-man-the-movie-xbox-cover.png)](https://vimm.net/vault/69587)
+[![Spider-Man: The Movie (Xbox)](https://raw.githubusercontent.com/igiteam/opentobey-spiderman-trilogy/refs/heads/master/spider-man-the-movie-xbox-cover.png)](https://vimm.net/vault/26366)
 
-[![Spider-Man 2 (Xbox)](https://raw.githubusercontent.com/igiteam/opentobey-spiderman-trilogy/refs/heads/master/spider-man-2-xbox-cover.png)](https://vimm.net/vault/69587)
+[![Spider-Man 2 (Xbox)](https://raw.githubusercontent.com/igiteam/opentobey-spiderman-trilogy/refs/heads/master/spider-man-2-xbox-cover.png)](https://vimm.net/vault/26781)
 
 [![Spider-Man 3 (PS2)](https://raw.githubusercontent.com/igiteam/opentobey-spiderman-trilogy/refs/heads/master/spider-man-3-ps2-cover.png)](https://vimm.net/vault/69587)
 
