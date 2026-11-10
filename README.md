@@ -32,6 +32,10 @@ All three Spider-Man movie games, recreated on the original *Spider-Man: The Mov
 ## Reference Links
 [https://github.com/xdivorex-gif/spiderman-kraven-pc](https://github.com/xdivorex-gif/spiderman-kraven-pc)
 
+[https://github.com/igiteam/opentobey-spiderman-trilogy/releases/tag/assets](https://github.com/igiteam/opentobey-spiderman-trilogy/releases/tag/assets)
+
+[https://github.com/igiteam/spiderman-2002-pc](https://github.com/igiteam/spiderman-2002-pc)
+
 [https://archive.org/details/Spider-Man_The_Movie_Reissue_USA](https://archive.org/details/Spider-Man_The_Movie_Reissue_USA)
 
 [https://archive.org/details/spider-man-2-2004-activision](https://archive.org/details/spider-man-2-2004-activision)
