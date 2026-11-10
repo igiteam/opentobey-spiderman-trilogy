@@ -29,6 +29,22 @@ All three Spider-Man movie games, recreated on the original *Spider-Man: The Mov
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
 
+## Reference Links
+[https://github.com/xdivorex-gif/spiderman-kraven-pc](https://github.com/xdivorex-gif/spiderman-kraven-pc)
+
+[https://archive.org/details/Spider-Man_The_Movie_Reissue_USA](https://archive.org/details/Spider-Man_The_Movie_Reissue_USA)
+
+[https://archive.org/details/spider-man-2-2004-activision](https://archive.org/details/spider-man-2-2004-activision)
+
+[https://github.com/SirSymo/SM2-Recomp](https://github.com/SirSymo/SM2-Recomp)
+
+[![Spider-Man: The Movie (Xbox)](https://dl.vimm.net/image.php?type=box&id=26781)](https://vimm.net/vault/26781)
+
+[![Spider-Man 2 (Xbox)](https://dl.vimm.net/image.php?type=box&id=26366)](https://vimm.net/vault/26366)
+
+[![Spider-Man 3 (PS2)](https://dl.vimm.net/image.php?type=box&id=69587)](https://vimm.net/vault/69587)
+
+
 # open-tobey a Spider-Man: The Movie Game dissection
 
 This repository contains a partial decompilation of the PC version of Treyarch's first Spider-Man game.
