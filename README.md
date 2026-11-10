@@ -14,7 +14,16 @@ All three Spider-Man movie games, recreated on the original *Spider-Man: The Mov
 [https://api.github.com/repos/igiteam/opentobey-spiderman-trilogy/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/opentobey-spiderman-trilogy/git/trees/main?recursive=1)
 
 ## Spider-Man The Movie Game — the base of the gameplay
-[![Watch the video](https://img.youtube.com/vi/BVLAuS9X9Ic/maxresdefault.jpg)](https://www.youtube.com/watch?v=BVLAuS9X9Ic)
+[![Spider-Man The Movie Game](https://img.youtube.com/vi/BVLAuS9X9Ic/maxresdefault.jpg)](https://www.youtube.com/watch?v=BVLAuS9X9Ic)
+
+[![Spider-Man The Movie Free Roam](https://img.youtube.com/vi/UeK30pUIzq8/maxresdefault.jpg)](https://www.youtube.com/watch?v=UeK30pUIzq8)
+
+[![Spider-Man Kraven Xbox](https://img.youtube.com/vi/-4otLemFvJA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-4otLemFvJA)
+
+[![Spider-Man 2 Xbox](https://img.youtube.com/vi/983PqSMJ1nU/maxresdefault.jpg)](https://www.youtube.com/watch?v=983PqSMJ1nU)
+
+[![Spider-Man 3 PS2 PCSX2 v1.7.0](https://img.youtube.com/vi/bl5uDeTYSFI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bl5uDeTYSFI)
+
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
